@@ -1,2 +1,1 @@
-# Splan-Ai
-splain ai(2)
+splanrepo
